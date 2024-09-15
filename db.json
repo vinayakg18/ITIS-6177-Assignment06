@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "3ca0",
+      "title": "ITIS6177",
+      "author": "Vinayak"
+    },
+    {
+      "id": "5c71",
+      "title": "ITCS6000",
+      "author": "Ghost"
+    },
+    {
+      "id": "8aa6",
+      "title": "roger",
+      "author": "that"
+    },
+    {
+      "id": "91c5",
+      "title": "Mahallo",
+      "author": "Edge"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
